@@ -20,6 +20,8 @@ Additionally, it also has a feature that shows graphs that can track a teams pro
 
 3. Put your client secret stuff in [client_secret.json](https://github.com/Limitized/spreadsheet/blob/master/client_secret.json). (Open it in notepad and copy and paste into into that one)
 
+4. Change the userinformation.py to fit your settings.
 
+5. Run secpro.py
 
 Hopefully, this will help you get your team to #1!
