@@ -2,6 +2,8 @@
 
 This is a spreadsheet to track team races in [Nitro Type](https://www.nitrotype.com).
 
+[Click for example](https://docs.google.com/spreadsheets/d/1tj86W4guKKGiBtioIogTvEifN0T9nLTc5T4ZiUs2AfE/edit#gid=1510912820)
+
 This was programmed fully in Python, using the libraries [Requests](https://github.com/psf/requests) and [gspread](https://github.com/burnash/gspread).
 
 The program will update a google sheets spreadsheet every 10 minutes showing the top racers, from best to worst. It also stores information from the past 7 days.
